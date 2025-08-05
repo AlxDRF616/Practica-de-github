@@ -9,3 +9,9 @@
 'git remote add origin url-del-repositorio' que se brindará al crear el repositorio en tu git-hub
 
 5. git push -u origin master (Para subir los archivos al repositorio de github)
+
+
+# Comandos para actualizar repositorio
+1. git add .
+2. git commi -m "Mensaje relevante a los cambios"
+3. git push -u origin master
