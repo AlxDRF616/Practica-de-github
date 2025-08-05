@@ -15,3 +15,8 @@
 1. git add .
 2. git commi -m "Mensaje relevante a los cambios"
 3. git push -u origin master
+
+# Comando extras
+1. git status
+2. git clone url-del-repositorio
+3. git pull (descarga las acualizaciones o modificaciones de el repositorio clonado)
